@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-04
+# Daily-Coding-Problem-04
 
 This problem was asked by Stripe.
 
